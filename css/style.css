@@ -1,0 +1,15 @@
+body {
+
+}
+
+.navbar, .navbar-expand-lg , .navbar-dark,.mycolornav{
+background-color:gold;
+font-style: normal;
+}
+.form-control:focus {
+    color: #37383a;
+    background-color: #37383a;
+    border-color: #37383a;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem #37383a;
+  }
